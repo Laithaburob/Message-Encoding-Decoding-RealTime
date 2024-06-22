@@ -1,0 +1,4 @@
+These errors typically occur when you misuse memory
+allocation! and deallocation functions in C.
+Here are a few common scenarios that can lead
+to these errors, and how? to fix them 11
